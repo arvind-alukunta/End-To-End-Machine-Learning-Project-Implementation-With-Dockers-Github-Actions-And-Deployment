@@ -16,7 +16,7 @@ Thorough Data Analysis & EDA: A comprehensive analysis was conducted to ensure d
 Problem Definition: Clearly outlined the goal of predicting house prices in Boston.
 Data Collection: Acquired a rich, extensive dataset to enhance model performance.
 Data Preparation: Cleaned, preprocessed, and validated the data—no missing values or errors remain.
-Exploratory Data Analysis (EDA): In Active
+
 
 # 🔧 Technologies Used
 Programming Language: Python
