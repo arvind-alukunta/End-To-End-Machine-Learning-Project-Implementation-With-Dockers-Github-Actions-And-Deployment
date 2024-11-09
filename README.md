@@ -25,4 +25,7 @@ Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, etc.
 # 🙌 My Passion for Data Science
 This project isn’t just about building a predictive model; it’s a testament to my curiosity and eagerness to apply data science in meaningful ways. I'm constantly exploring new techniques and pushing myself to understand the nuances of data-driven problem-solving.
 
-
+# 📈 Next Steps
+Perform in-depth EDA to discover trends and correlations.
+Develop and fine-tune machine learning models.
+Evaluate and compare models using appropriate performance metrics.
