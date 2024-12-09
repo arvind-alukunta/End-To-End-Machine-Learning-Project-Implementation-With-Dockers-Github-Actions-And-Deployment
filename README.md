@@ -28,4 +28,4 @@ This project isn’t just about building a predictive model; it’s a testament 
 # 📈 Next Steps
 Perform in-depth EDA to discover trends and correlations.
 Develop and fine-tune machine learning models.
-Evaluate and compare models using appropriate performance metrics.
+Evaluate and compare models using appropriate performance metrics
